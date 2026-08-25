@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="wave" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=0078D7&center=true&pause=1000&width=240&lines=Hi,+I'm+Yuan." alt="Hi, I'm Yuan."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=0078D7&center=true&pause=1000&width=260&lines=Hi,+I'm+Yuan." alt="Hi, I'm Yuan."/>
 
   <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" height="24" alt="wave" />
     <strong>Smart Hardware Growth & Sales</strong>
   </p>
 
@@ -24,12 +24,14 @@
 #### 💼 Selected Work
 
 **AI Fighting Robot Sales**  
-Built the sales flow from zero at **Qxbot Innovation Co, Limited**.  
+**Qxbot Innovation Co, Limited**  
+Built the sales flow from zero.  
 <code>500+ leads</code> <code>25 robots sold</code>  
 [View Case →](https://yuan-y00.github.io/projects/ai-fighting-robot-commercialization/)
 
 **JabX North America Test**  
-Tested demand before launch with ads, surveys, and interviews.  
+**Qxbot Innovation Co, Limited**  
+Tested demand before launch.  
 <code>1,202 leads</code> <code>35 paid-intent users</code>  
 [View Case →](https://yuan-y00.github.io/projects/jabx-north-america-pmf/)
 
@@ -38,8 +40,8 @@ Tested demand before launch with ads, surveys, and interviews.
 
 #### 🌱 Current
 
-**Qxbot Innovation Co, Limited**
-North America market test and user growth
+**Qxbot Innovation Co, Limited**<br/>
+North America market test & user growth
 
 **Past**
 
