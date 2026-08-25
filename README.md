@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=0078D7&center=true&pause=1000&width=520&lines=Hi,+I'm+Yuan.;Smart+Hardware+Growth+%26+Sales" alt="Hi, I'm Yuan. Smart Hardware Growth & Sales"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" height="28" alt="wave" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&color=0078D7&center=true&pause=1000&width=240&lines=Hi,+I'm+Yuan." alt="Hi, I'm Yuan."/>
 
   <p>
-    <strong>I help early hardware products find real users and real orders.</strong>
+    <strong>Smart Hardware Growth & Sales</strong>
+  </p>
+
+  <p>
+    I help early hardware products find real users and real orders.
   </p>
 
   <p>
     <code>AI</code> <code>Robotics</code> <code>Smart Hardware</code>
   </p>
 
-  <p>
-    <code>1,202 leads</code> <code>25 robots sold</code> <code>~RMB 1.5M collected</code>
-  </p>
+  <p><code>1,202 leads</code> <code>25 robots sold</code> <code>~RMB 1.5M collected</code></p>
 </div>
 
 <table>
@@ -35,7 +38,7 @@ Tested demand before launch with ads, surveys, and interviews.
 
 #### 🌱 Current
 
-**Qxbot Innovation Co, Limited**  
+**Qxbot Innovation Co, Limited**
 North America market test and user growth
 
 **Past**
