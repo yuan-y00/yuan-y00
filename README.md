@@ -36,23 +36,27 @@ Tested demand before launch.
 [View Case →](https://yuan-y00.github.io/projects/jabx-north-america-pmf/)
 
 </td>
-<td valign="top" width="24%">
+<td valign="top" width="25%">
 
 #### 🌱 Current
 
 **Qxbot Innovation Co, Limited**<br/>
-North America market test & user growth
+Market test & user growth
 
 **Past**
 
-- Amazon operations
-- Magic robot product work
-- Hardware co-founder
+<code>Amazon Ops</code><br/>
+<code>Magic Robot PM</code><br/>
+<code>Hardware Co-Founder</code>
 
 </td>
-<td valign="top" width="31%">
+<td valign="top" width="30%">
 
 #### 🔗 Links
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Site**
 
@@ -65,9 +69,12 @@ North America market test & user growth
 [PMF Console →](https://yuan-y00.github.io/pmf-interview/JabX%20PMF%20%E8%AE%BF%E8%B0%88%E7%A0%94%E7%A9%B6.html)  
 [Bambu Lab Research →](https://yuan-y00.github.io/brand-research-pdf/examples/bambu-lab-report-gtm.html)
 
+</td>
+<td valign="top" width="50%">
+
 **Maps**
 
-[Robot Communication Basics →](https://yuan-y00.github.io/robotics_web_project_requirements/)  
+[Robot Basics →](https://yuan-y00.github.io/robotics_web_project_requirements/)  
 [Robotics Knowledge Map →](https://yuan-y00.github.io/robotics-knowledge-base/)  
 [Terms Map →](https://yuan-y00.github.io/terms-map/terms-map-site/)
 
@@ -77,6 +84,10 @@ North America market test & user growth
 [IELTS Copy →](https://yuan-y00.github.io/ielts-copy-pwa/)  
 [Shadowing Lab →](https://yuan-y00.github.io/xingchen-shadowing-app/)  
 [German Copybook →](https://yuan-y00.github.io/deutsch-copy/)
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
