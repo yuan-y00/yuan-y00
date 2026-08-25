@@ -6,7 +6,7 @@
     <strong>Smart Hardware Growth & Sales</strong>
   </p>
 
-  <p>I help early hardware products find real users and real orders.</p>
+  <p>I help hardware teams find real users and early orders.</p>
 
   <p><code>AI</code> <code>Robotics</code> <code>Smart Hardware</code></p>
 
@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="46%">
 
 #### 💼 Selected Work
 
@@ -30,12 +30,12 @@ Tested demand before launch.
 [View Case →](https://yuan-y00.github.io/projects/jabx-north-america-pmf/)
 
 </td>
-<td valign="top" width="42%">
+<td valign="top" width="31%">
 
 #### 🌱 Current
 
 **Qxbot Innovation Co, Limited**  
-Market test & user growth
+North America test & user growth
 
 #### 🧭 Focus
 
@@ -43,48 +43,22 @@ Market test & user growth
 
 #### ✨ Past
 
-<code>Amazon Ops</code> <code>Magic Robot PM</code> <code>Hardware Co-Founder</code>
+<code>Amazon Ops</code><br>
+<code>Magic Robot PM</code><br>
+<code>Hardware Co-Founder</code>
 
 </td>
-</tr>
-</table>
+<td valign="top" width="23%">
 
-<table>
-<tr>
-<td valign="top" width="25%">
+#### 🔗 Links
 
-#### 🔗 Site
-
-[Portfolio →](https://yuan-y00.github.io/)  
-[GitHub →](https://github.com/yuan-y00)  
+<strong>Site</strong><br>
+[Portfolio →](https://yuan-y00.github.io/)<br>
 [Contact →](mailto:2426941529@qq.com)
 
-</td>
-<td valign="top" width="25%">
-
-#### 📊 Research
-
-[PMF Console →](https://yuan-y00.github.io/pmf-interview/JabX%20PMF%20%E8%AE%BF%E8%B0%88%E7%A0%94%E7%A9%B6.html)  
+<strong>Research</strong><br>
+[PMF Console →](https://yuan-y00.github.io/pmf-interview/JabX%20PMF%20%E8%AE%BF%E8%B0%88%E7%A0%94%E7%A9%B6.html)<br>
 [Bambu Lab Research →](https://yuan-y00.github.io/brand-research-pdf/examples/bambu-lab-report-gtm.html)
-
-</td>
-<td valign="top" width="25%">
-
-#### 🤖 Maps
-
-[Robot Basics →](https://yuan-y00.github.io/robotics_web_project_requirements/)  
-[Robotics Knowledge Map →](https://yuan-y00.github.io/robotics-knowledge-base/)  
-[Terms Map →](https://yuan-y00.github.io/terms-map/terms-map-site/)
-
-</td>
-<td valign="top" width="25%">
-
-#### 📝 Practice
-
-[IELTS Dictation →](https://yuan-y00.github.io/ielts-dictation/)  
-[IELTS Copy →](https://yuan-y00.github.io/ielts-copy-pwa/)  
-[Shadowing Lab →](https://yuan-y00.github.io/xingchen-shadowing-app/)  
-[German Copybook →](https://yuan-y00.github.io/deutsch-copy/)
 
 </td>
 </tr>
